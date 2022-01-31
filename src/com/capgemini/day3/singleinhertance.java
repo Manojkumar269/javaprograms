@@ -4,9 +4,8 @@ package com.capgemini.day3;
 class A{
 	
 	
-	public void printA()
+	public void printA() 
 	{
-		int a=
 		
 		System.out.println("I am class A");
 	}
@@ -28,4 +27,5 @@ public class singleinhertance {
 		b.printA();
     
 	
-}}
+}
+	}
