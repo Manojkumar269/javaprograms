@@ -1,5 +1,5 @@
 package com.capgemini.assignmentsarray;
-
+//Duplicate value in array
 public class duplicate {
 	
 	public static void main(String args[])

@@ -1,5 +1,4 @@
 package com.capgemini.day2;
-
  
 
 //1 Nested Class

@@ -8,18 +8,19 @@ public class arraylargest {
 		int i;
 		int a[]= new int[5];
 		Scanner sc= new Scanner(System.in);
-		a[i]= sc.next();
 		
+		int t=0;
 		
-		for (int i = 0; i < 5; i++)   
+		for (i = 0; i < 5; i++)   
         {  
+			
             for (int j = i + 1; j < 5; j++)   
             {  
                 if (a[i] > a[j])   
                 {  
-                    temp = a[i];  
+                    t = a[i];  
                     a[i] = a[j];  
-                    a[j] = temp;  
+                    a[j] = t;  
                 }  
             }  
         }  

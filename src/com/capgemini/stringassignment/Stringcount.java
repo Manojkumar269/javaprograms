@@ -1,7 +1,6 @@
-package com.capgemini.day5;
-//Count the number of words in a given string sentence?
-public class stringcount {
-	
+package com.capgemini.stringassignment;
+//Count the number of words in a given string sentence
+public class Stringcount {
 	public static void main(String args[])
 	{
 		String str="I like java programing";
@@ -16,5 +15,6 @@ public class stringcount {
 		}
 		System.out.println(count);
 	}
+
 
 }

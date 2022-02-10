@@ -1,7 +1,6 @@
-package com.capgemini.day5;
-
-public class stringoccurancecount {
-
+package com.capgemini.stringassignment;
+//Count the occurrence of the given character in a string?
+public class Stringoccurancecount {
 	public static void main(String args[])
 	{
 		String str= "aaaababajvmnksa";
@@ -16,4 +15,5 @@ public class stringoccurancecount {
 		}
 		System.out.println("the count of char "+o+" is "+count);
 	}
+
 }

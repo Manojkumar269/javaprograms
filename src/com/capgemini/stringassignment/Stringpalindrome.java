@@ -1,6 +1,7 @@
-package com.capgemini.day5;
+package com.capgemini.stringassignment;
+
 //check if a string is a palindrome
-public class stringpalindrome {
+public class Stringpalindrome {
 	public static void main(String args[])
 	{
 	String str="malayalam";
@@ -36,3 +37,4 @@ public class stringpalindrome {
 	
 	}
 }
+

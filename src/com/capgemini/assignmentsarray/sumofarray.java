@@ -1,5 +1,8 @@
 package com.capgemini.assignmentsarray;
-import java.util.Scanner;
+//sum of all the element of array *
+//Avg of all the element of array *
+
+import java.util.*;
 public class sumofarray {
 
 	public static void main(String args[])
@@ -9,9 +12,6 @@ public class sumofarray {
 		System.out.println("Enter the number of elements");
 		int n=c.nextInt();
 		int arr[]=new int[n];
-		
-		
-		
 		
 		int sum=0;
 	    Scanner sc= new Scanner(System.in);

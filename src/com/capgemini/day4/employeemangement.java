@@ -1,19 +1,10 @@
 package com.capgemini.day4;
-
-
-
-
-
 //Employee Management System
 
-//Add the List of Employee
-//Find the Employee By name
-//Sort the Employee List
-//Add New Employee to List
-//Find the min and max salary of employee
-import java.util.*;
 
-import omg.omg.CosNaming._NamingContextExtStub;
+import java.util.Scanner;
+
+
 
 class EmployeeM {
 	
@@ -166,3 +157,8 @@ public class employeemangement {
 		}
 	}
 }
+
+
+
+
+//import omg.omg.CosNaming._NamingContextExtStub;
